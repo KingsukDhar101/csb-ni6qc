@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kingsukdhar101.github.io/csb-ni6qc/static/css/main.49ce797c.chunk.css",
+    "main.js": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/main.724b3372.chunk.js",
+    "main.js.map": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/main.724b3372.chunk.js.map",
+    "runtime-main.js": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/runtime-main.df5f300b.js",
+    "runtime-main.js.map": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/runtime-main.df5f300b.js.map",
+    "static/js/2.aef4743c.chunk.js": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/2.aef4743c.chunk.js",
+    "static/js/2.aef4743c.chunk.js.map": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/2.aef4743c.chunk.js.map",
+    "index.html": "https://kingsukdhar101.github.io/csb-ni6qc/index.html",
+    "static/css/main.49ce797c.chunk.css.map": "https://kingsukdhar101.github.io/csb-ni6qc/static/css/main.49ce797c.chunk.css.map",
+    "static/js/2.aef4743c.chunk.js.LICENSE.txt": "https://kingsukdhar101.github.io/csb-ni6qc/static/js/2.aef4743c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df5f300b.js",
+    "static/js/2.aef4743c.chunk.js",
+    "static/css/main.49ce797c.chunk.css",
+    "static/js/main.724b3372.chunk.js"
+  ]
+}
